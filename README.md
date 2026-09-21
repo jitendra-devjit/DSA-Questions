@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jitendra-devjit/DSA-Questions/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/jitendra-devjit/DSA-Questions/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/jitendra-devjit/DSA-Questions/tree/master/0053-maximum-subarray) |
 | [0283-move-zeroes](https://github.com/jitendra-devjit/DSA-Questions/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/jitendra-devjit/DSA-Questions/tree/master/0704-binary-search) |
@@ -27,5 +28,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/jitendra-devjit/DSA-Questions/tree/master/0015-3sum) |
 | [0283-move-zeroes](https://github.com/jitendra-devjit/DSA-Questions/tree/master/0283-move-zeroes) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/jitendra-devjit/DSA-Questions/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
