@@ -19,12 +19,8 @@ public:
                     left++;
                     right--;
                 }
-                else if(sum < 0){
-                    left++;
-                }
-                else {
-                    right--;
-                }
+                else if(sum < 0)left++;
+                else right--;
             }
         }
         return result;
